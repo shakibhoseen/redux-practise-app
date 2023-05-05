@@ -10,6 +10,8 @@
     "build:tailwind": "postcss src/styles.css -o src/styles.generated.css"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "axios": "^1.4.0",
     "expo": "~48.0.15",
     "expo-status-bar": "~1.4.4",
     "nativewind": "^2.0.11",
